@@ -1,19 +1,9 @@
-<!--
- * @Descripttion: 
- * @version: 1.0
- * @Author: Zx
- * @Email: ureinsecure@outlook.com
- * @Date: 2021-12-28 12:27:28
- * @LastEditors: Zx
- * @LastEditTime: 2021-12-28 12:52:49
- * @FilePath: \Principle-of-Automatic-Control-UESTC-839\README.md
--->
 # 自动控制原理
 
 简洁版本的自动控制原理复习指导。
 适用于：电子科技大学的自动控制原理期末考/839考研。
 作者：innns
-参考书目：《自动控制原理（第七版）》胡寿松、《自动控制原理》邹见效。
+参考书目：《自动控制原理（第七版）》胡寿松、《自动控制原理》邹见效、《现代控制工程（第五版）》Katsuhiko Ogata。
 著作权归作者所有。转载表明出处。只能用于非商业用途。
 
 ## 目录
@@ -27,3 +17,7 @@
 + [第七章 离散系统](src/C7_离散系统.md)
 + [第八章 非线性系统分析](src/C8_非线性系统分析.md)
 + [第九章 现代控制理论](src/C9_现代控制理论.md)
+
+## PS
+
+由于个人能力、精力有限，文档不能保障准确性。如果文档有错误的地方，提issue反馈一下。
